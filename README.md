@@ -1,6 +1,6 @@
 NAME                            ID
-Natnael  Asefa           1282
-Dawit   Getachew        1166
+Natnael  Asefa            1282
+Dawit   Getachew          1166
 Answers:
 Assignment I
 
