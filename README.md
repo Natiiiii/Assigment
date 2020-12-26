@@ -1,11 +1,11 @@
 NAME                            ID
 Natnael  Asefa           1282
-Dawit     Getachew    1166
+Dawit   Getachew        1166
 Answers:
 Assignment I
 
 QUESTION 1
-What changes are made when you add a second Activity to your app by choosing File > New > Activity and an Activity template? Choose one:
+What changes are made when you add a second Activity to your app by choosing File > New > Activity and an Activity template? 
 
 Answer C,The second Activity is added as a Java class, the XML layout file is created, and the AndroidManifest.xml file is changed to declare a second Activity.
 
